@@ -6,4 +6,4 @@ If you look through my repos, you will find some cool projects and assignments t
 
 &emsp;
 
-<img align="center" width="47%" height="150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaxvii&layout=compact&theme=solarized-dark"/>
+<img align="center" width="47%" height="150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaxvii&layout=compact&theme=solarized-dark" />
