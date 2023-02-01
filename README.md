@@ -1,5 +1,5 @@
 <p align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/91913752/215943447-21cccd91-ecd3-40b3-a44c-8c7588f589ae.png">
+<img width="50%" src="https://user-images.githubusercontent.com/91913752/215943447-21cccd91-ecd3-40b3-a44c-8c7588f589ae.png">
 </p>
 
 <h2 align="center">Hi! My name is Lasya :)</h2>
