@@ -1,7 +1,3 @@
-<p align="center">
-<img width="70%" src="https://user-images.githubusercontent.com/91913752/215943447-21cccd91-ecd3-40b3-a44c-8c7588f589ae.png">
-</p>
-
 <h2 align="center">Hi! My name is Lasya :)</h2>
 
 <p align="center"> I'm a junior studying Computer Science with a Cyber Operations track at the University of Texas at San Antonio.  </p>
