@@ -1,6 +1,6 @@
 <h2 align="center">Hi! My name is Lasya :)</h2>
 
-<p align="center"> I'm a junior studying Computer Science with a Software Engineering track at the University of Texas at San Antonio.  </p>
+<p align="center"> I'm a senior studying Computer Science with a Software Engineering track at the University of Texas at San Antonio.  </p>
 
 <p align="center"> If you look through my repos, you will find some cool projects and assignments that I have worked on in my past classes!  </p>
  
