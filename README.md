@@ -2,7 +2,7 @@
 
 <p align="center"> I'm a senior studying Computer Science with a Software Engineering track at the University of Texas at San Antonio.  </p>
 
-<p align="center"> If you look through my repos, you will find some cool projects and assignments that I have worked on in my past classes!  </p>
+<p align="center"> If you look through my repos, you will find some cool projects and assignments that I have worked on in my past classes and through hackathons!  </p>
  
                                           
  
